@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Welcome to my professional homepage.
+title: Curriculum Vitae
+subtitle: Welcome to my professional homepage
 ---
-This is basically a webpage about my research on human interaction with avatars in Mixed Reality (MR). Please feel free to explore this website. Don't hesitate to contact me if you want any additional information or if you are interested by a research collaboration. Hope you'll enjoy reading me!
 
-# My story
-I was born in France, but spent most of my childhood in China where I lived for over 9 years. I then spent a part of my teenagehood in Brazil (2 years) before returning to France when I was 16. Since then, I've been moving from town to town to pursue my studies in computer science. 
+### Summary
 
-I graduated in  2019  from  the  French  national  engineering school [ENSEIRB-MATMECA](https://enseirb-matmeca.bordeaux-inp.fr/fr) (Bordeaux),  receiving my computer science degree specialized in multimedia and video game technologies. 
-
-I am now a Ph.D. student at <a href="https://www.inria.fr/en">Inria</a> in Bordeaux, directed by <a href="https://people.bordeaux.inria.fr/hachet/">Martin Hachet</a> and <a href="https://people.rennes.inria.fr/Anatole.Lecuyer/">Anatole Lécuyer</a>. My research interests include avatars, augmented reality, and virtual embodiment. I enjoy sharing my research work and participated in numerous pop-science projects: <a href="https://www.youtube.com/watch?v=4yaLcpMEdnk">Three Minutes Thesis</a>, <a href="https://podcast.ausha.co/these-et-vous/episode-9-informatique-adelaide">Thèse et Vous !</a> podcast, <a href="https://theconversation.com/les-avatars-peuvent-ils-remplacer-notre-corps-164965">The Conversation</a> article, etc.
-
-## My Curriculum Vitae
+Ph.D. candidate at Inria with a passion for sharing her knowledge. Specialized in Avatars, Augmented Reality, HCI, and Cognitive Science. MS in
+Computer Science Engineering with a major in Multimedia and Video Game development. BS in Engineering Science. Large experience abroad.
 
 ### Education
 
