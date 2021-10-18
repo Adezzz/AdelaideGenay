@@ -16,7 +16,7 @@ author: Adélaïde Genay
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  CV: "aboutme"
   Projects:
     - Hybrid avatars: "https://team.inria.fr/potioc/fr/research-topics/design-and-evaluation-of-hybrid-avatars/"
   Potioc Team: "https://team.inria.fr/potioc/fr/team-members/"
