@@ -11,15 +11,15 @@ Computer Science Engineering with a major in Multimedia and Video Game developme
 
 ### Education
 
-Sept. 2016 - Sept. 2019  
+Sept. 2017 - Aug. 2019  
 **National School of Electronics, Computer Science, Telecommunications, Mathematics and Mechanics of Bordeaux (ENSEIRB-MATMECA)** 
-M.S. In Computer Science Engineering, majored in Technologies of Multimedia and Video Games
+M.S. in Computer Science Engineering, majored in Technologies of Multimedia and Video Games
 
-Sept. 2016 - Sept. 2017
+Sept. 2016 - Aug. 2017
  **National School of Electronics, Computer Science, Telecommunications, Mathematics and Mechanics of Bordeaux (ENSEIRB-MATMECA)**
-B.S. In Science Engineering 
+B.S. in Engineering Science
 
-Sept. 2014 - June 2016
+Sept. 2014 - Aug. 2016
 **Preparatory Class for Grandes Ecoles at Lycée Janson de Sailly (Mathematics-Physics program)**
 Training for enrolment in "grandes écoles". More information here: [CPGE](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles)
 
@@ -32,7 +32,7 @@ End-to-end Development of a packet analyzer for the Arinc-485 aeronautical stand
 *C, Angular JS*
 
 Jun. 2018 - end of Sept. 2018
-**ThermoFisher Scientific (Mérignac, France)**
+**ThermoFisher Scientific (Mérignac, France)** 
 SOFTWARE ENGINEER INTERN 
 Research and development of a Neural Network for biomedical image segmentation.
 *Keras, Python*
@@ -59,17 +59,17 @@ HAL: [hal-02933477](https://hal.inria.fr/hal-02933477/)
 
 ### Teaching
 
-Expected Sept. 2021 - Jan. 2022
+Nov. 2021 - Jan. 2022
 **ENSEIRB-MATMECA (Talence, France)**
-Computer architecture for engineering students. 
+Computer architecture and microprocessing for engineering students. 
 Hands-on courses for groups of 20 students, during a total of 20 hours of in-class time.
 
-Sept. 2019 - end of Jan. 2021
+Sept. 2019 - Jan. 2021
 **University of Bordeaux (Talence, France)**
 C programming for 2nd-year Science Bachelor students.
 Hands-on courses for groups of 20 students, during a total of 38 hours of in-class time.
 
-Sept. 2019 - end of Jan. 2020
+Sept. 2019 - Jan. 2020
 **University of Bordeaux (Talence, France)**
 Computer science basics and Python programming for 1st-year Computer Science Bachelor students.
 - Courses for groups of 40 students. 
@@ -84,22 +84,27 @@ Computer science basics and Python programming for 1st-year Computer Science Bac
 **Languages:** English (fluent), French (native), Chinese (beginner), Portuguese (beginner)
 
 ### Certifications
-Dec. 2017 
-**Test of English for International Communication (TOEIC)**
-Score: 975 (C1)
-ETS Global-France® Talence, France
-
 Jun. 2021 
 **Mental Health First Aid**
 Rescuer certificate
 PSSM France® Pessac, France
 
+Dec. 2017 
+**Test of English for International Communication (TOEIC)**
+Score: 975 (C1)
+ETS Global-France® Talence, France
+
 ### Scientific Outreach
 
-Expected in winter 2021
+Expected June 2022
 **Participation to “1 Scientifique, 1 Classe, Chiche !” (Talence, France)**
 SCIENTIFIC SPEAKER 
 This nationwide initiative calls on researchers to give tenth-grade students the opportunity to meet a scientist in class.
+
+Apr. 2022
+**Participation to “Moi Mathématicienne, Moi Informaticienne” (Talence, France)**
+SCIENTIFIC SPEAKER 
+Workshop for middle and high school girl students on careers in science as a women.
 
 Oct. 2021
 **“Can avatars replace our bodies?”, The Conversation (Talence, France)**
