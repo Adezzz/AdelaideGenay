@@ -16,7 +16,22 @@ Oct. 2019 - Oct. 2022
 Ph.D. in Computer Science (ongoing), supervised by [Martin Hachet](https://people.bordeaux.inria.fr/hachet/) and [Anatole Lécuyer](https://people.rennes.inria.fr/Anatole.Lecuyer/). I am part of the [Potioc](https://team.inria.fr/potioc/fr/) and [Hybrid](https://team.inria.fr/hybrid/) teams.
 
 **Title**: Design and Evaluation of Avatars for Augmented Reality  
+
+**Research topics:** *HCI, avatars, AR, MR, Sense of Embodiment, Experimental Research*  
+
 **Abstract**: Once reserved for virtual environments, avatars are now increasingly present in Augmented Reality (AR) applications. AR allows to see virtual content directly integrated to the real world. Associated with interaction techniques, it makes it possible to modify the appearance of the user in real time, even replacing their entire body with that of an avatar. This recent possibility opens doors to many uses, but the perception of this "avatarization" is still little known within this context. In this thesis, we explore avatar embodiment in AR through several axes. First, we studied the sense of embodiment of these avatars and the particular factors that impact it in AR. Secondly, we looked at the interaction techniques that allow us to control these avatars in the 3rd person and how they can be used to improve our perception of real-world affordances. Finally, we explored strategies to enhance embodiment illusions in AR by designing transitions to become one's avatar and methods of conditioning the user to prepare them for their avatarization.
+
+### Scientific publications
+
+A. Genay, A. Lecuyer and M. Hachet, “**Being an Avatar “for Real”: a Survey on Virtual Embodiment in Augmented Reality**” IEEE Transactions on Visualization and Computer Graphics (TVCG), Jul. 2021.  
+DOI: [10.1109/TVCG.2021.3099290](https://hal.univ-reunion.fr/IRISA/hal-03320680v1)
+
+A. Genay, A. Lecuyer and M. Hachet, “**Virtual, Real or Mixed: How Surrounding Objects Influence the Sense of Embodiment in Optical See-Through Experiences?**”
+Frontiers in Virtual Reality, 2:679902, Jun. 2021.  
+DOI: [10.3389/frvir.2021.6799020](https://www.frontiersin.org/articles/10.3389/frvir.2021.679902/full)
+
+A. Genay, A. Lecuyer and M. Hachet, “**Incarner un Avatar en Réalité Augmentée : Revue de la Littérature**”, WACAI 2020 - Workshop sur les Affects, Compagnons Artificiels et Interactions, Saint Pierre d’Oléron, France, Oct. 2021.  
+HAL: [hal-02933477](https://hal.inria.fr/hal-02933477/)
 
 ### Education
 
@@ -51,20 +66,6 @@ Jul. 2017 - end of Aug. 2017
 SOFTWARE ENGINEER INTERN  
 Design of a factory machine optimization protocol. Analysis and prediction of the production of defective parts with Deep Learning.  
 *Keras, Python*
-
-### Research
-
-**Research topics:** *HCI, avatars, AR, VR, Sense of Embodiment, Experimental Research*  
-
-A. Genay, A. Lecuyer and M. Hachet, “**Being an Avatar “for Real”: a Survey on Virtual Embodiment in Augmented Reality**” IEEE Transactions on Visualization and Computer Graphics (TVCG), Jul. 2021.  
-DOI: [10.1109/TVCG.2021.3099290](https://hal.univ-reunion.fr/IRISA/hal-03320680v1)
-
-A. Genay, A. Lecuyer and M. Hachet, “**Virtual, Real or Mixed: How Surrounding Objects Influence the Sense of Embodiment in Optical See-Through Experiences?**”
-Frontiers in Virtual Reality, 2:679902, Jun. 2021.  
-DOI: [10.3389/frvir.2021.6799020](https://www.frontiersin.org/articles/10.3389/frvir.2021.679902/full)
-
-A. Genay, A. Lecuyer and M. Hachet, “**Incarner un Avatar en Réalité Augmentée : Revue de la Littérature**”, WACAI 2020 - Workshop sur les Affects, Compagnons Artificiels et Interactions, Saint Pierre d’Oléron, France, Oct. 2021.  
-HAL: [hal-02933477](https://hal.inria.fr/hal-02933477/)
 
 ### Teaching
 
