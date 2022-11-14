@@ -11,19 +11,25 @@ Computer Science Engineering with a major in Multimedia and Video Game developme
 
 ### Ph.D.
 
-Oct. 2019 - Oct. 2022  
+Oct. 2019 - Dec. 2022  
 **Inria Bordeaux Sud-Ouest**  
 Ph.D. in Computer Science (ongoing), supervised by [Martin Hachet](https://people.bordeaux.inria.fr/hachet/) and [Anatole Lécuyer](https://people.rennes.inria.fr/Anatole.Lecuyer/). I am part of the [Potioc](https://team.inria.fr/potioc/fr/) and [Hybrid](https://team.inria.fr/hybrid/) teams.
 
-**Title**: Design and Evaluation of Avatars for Augmented Reality  
+**Title**: Being a Virtual Avatar in a Real Environment: Design and Study of Avatar Embodiment in Augmented Reality
 
 **Research topics:** *HCI, avatars, AR, MR, Sense of Embodiment, Experimental Research*  
 
-**Abstract**: Once reserved for virtual environments, avatars are now increasingly present in Augmented Reality (AR) applications. AR allows to see virtual content directly integrated to the real world. Associated with interaction techniques, it makes it possible to modify the appearance of the user in real time, even replacing their entire body with that of an avatar. This recent possibility opens doors to many uses, but the perception of this "avatarization" is still little known within this context. In this thesis, we explore avatar embodiment in AR through several axes. First, we studied the sense of embodiment of these avatars and the particular factors that impact it in AR. Secondly, we looked at the interaction techniques that allow us to control these avatars in the 3rd person and how they can be used to improve our perception of real-world affordances. Finally, we explored strategies to enhance embodiment illusions in AR by designing transitions to become one's avatar and methods of conditioning the user to prepare them for their avatarization.
+**Abstract**: Once reserved for virtual environments, avatars are now increasingly present in Augmented Reality (AR). This technology allows interacting with virtual content directly integrated into our physical surroundings. Combined with body tracking, it makes it possible to experience being inside a virtual body of any desired appearance and to extend one’s action capabilities. Despite the numerous opportunities for applications that this new possibility provides, little research has explored how to implement and exploit it. The way users perceive such experiences within real environments is additionally not well understood yet. In this thesis, we explore the embodiment of avatars in AR through several axes. First, we introduce a taxonomy through a body avatarization continuum to better describe embodiment experiences. Next, using an optical see-through AR display, we study the user’s sense of embodiment towards virtual hands and how mixing the virtual with the real impacts this sense. We then look at the use cases for avatar embodiment in AR and investigate interaction techniques allowing to control avatars in the third person and to explore the real world. We propose an implementation of this concept and evaluate the approach of using such a system to improve our perception of real-world affordances through a user study. Finally, we explore strategies to enhance embodiment illusions by designing transitions to become one's avatar and methods to prepare the user for their "avatarization".
 
 ### Scientific publications
 
-A. Genay, A. Lecuyer and M. Hachet, “**Being an Avatar “for Real”: a Survey on Virtual Embodiment in Augmented Reality**” IEEE Transactions on Visualization and Computer Graphics (TVCG), Jul. 2021.  
+A. Genay, A. Lecuyer and M. Hachet, “**What Can I Do There? Controlling AR Self-Avatars to Better Perceive Affordances of the Real World**”, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Singapore, Singapore, Oct. 2022.  
+HAL: [hal-03820756](https://hal.archives-ouvertes.fr/hal-03820756/document)
+
+
+R. Otono, A. Genay, M. Perusquía-Hernández, N. Isoyama, H. Uchiyama, M. Hachet, A. Lécuyer, K. Kiyokawa, “**Studying "Avatar Transitions" in Augmented Reality: Influence on Sense of Embodiment and Physiological Activity**”, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Singapore, Singapore, Oct. 2022. 
+
+A. Genay, A. Lecuyer and M. Hachet, “**Being an Avatar “for Real”: a Survey on Virtual Embodiment in Augmented Reality**” IEEE Transactions on Visualization and Computer Graphics (TVCG), Christchurch, New Zealand, Jul. 2021.  
 DOI: [10.1109/TVCG.2021.3099290](https://hal.univ-reunion.fr/IRISA/hal-03320680v1)
 
 A. Genay, A. Lecuyer and M. Hachet, “**Virtual, Real or Mixed: How Surrounding Objects Influence the Sense of Embodiment in Optical See-Through Experiences?**”
