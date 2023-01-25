@@ -23,7 +23,20 @@ Ph.D. in Computer Science, supervised by [Martin Hachet](https://people.bordeaux
 
 ### Scientific publications
 
-<IFRAME width="505" height="500" src="https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=Adelaide+Genay&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondense.css" FRAMEBORDER="0" scrolling="auto" ></IFRAME>
+A. Genay, A. Lecuyer and M. Hachet, “**What Can I Do There? Controlling AR Self-Avatars to Better Perceive Affordances of the Real World**”, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Singapore, Singapore, Oct. 2022.  
+HAL: [hal-03820756](https://hal.archives-ouvertes.fr/hal-03820756/document)
+
+R. Otono, A. Genay, M. Perusquía-Hernández, N. Isoyama, H. Uchiyama, M. Hachet, A. Lécuyer, K. Kiyokawa, “**Studying "Avatar Transitions" in Augmented Reality: Influence on Sense of Embodiment and Physiological Activity**”, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Singapore, Singapore, Oct. 2022. DOI: 10.1109/ISMAR-Adjunct57072.2022.00106
+
+A. Genay, A. Lecuyer and M. Hachet, “**Being an Avatar “for Real”: a Survey on Virtual Embodiment in Augmented Reality**” IEEE Transactions on Visualization and Computer Graphics (TVCG), Christchurch, New Zealand, Jul. 2021.  
+DOI: [10.1109/TVCG.2021.3099290](https://hal.univ-reunion.fr/IRISA/hal-03320680v1)
+
+A. Genay, A. Lecuyer and M. Hachet, “**Virtual, Real or Mixed: How Surrounding Objects Influence the Sense of Embodiment in Optical See-Through Experiences?**”
+Frontiers in Virtual Reality, 2:679902, Jun. 2021.  
+DOI: [10.3389/frvir.2021.6799020](https://www.frontiersin.org/articles/10.3389/frvir.2021.679902/full)
+
+A. Genay, A. Lecuyer and M. Hachet, “**Incarner un Avatar en Réalité Augmentée : Revue de la Littérature**”, WACAI 2020 - Workshop sur les Affects, Compagnons Artificiels et Interactions, Saint Pierre d’Oléron, France, Oct. 2021.  
+HAL: [hal-02933477](https://hal.inria.fr/hal-02933477/)
 
 ### Education
 
