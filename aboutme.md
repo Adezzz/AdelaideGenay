@@ -6,20 +6,20 @@ subtitle: Welcome to my professional homepage
 
 ### Summary
 
-Ph.D. candidate at Inria with a passion for sharing her knowledge. Specialized in Avatars, Augmented Reality, HCI, and Cognitive Science. MS in
+Recently graduated Ph.D. with a passion for sharing her knowledge. Specialized in Avatars, Augmented Reality, HCI, and Cognitive Science. MS in
 Computer Science Engineering with a major in Multimedia and Video Game development. BS in Engineering Science. Large experience abroad.
 
 ### Ph.D.
 
 Oct. 2019 - Dec. 2022  
 **Inria Bordeaux Sud-Ouest**  
-Ph.D. in Computer Science (ongoing), supervised by [Martin Hachet](https://people.bordeaux.inria.fr/hachet/) and [Anatole Lécuyer](https://people.rennes.inria.fr/Anatole.Lecuyer/). I am part of the [Potioc](https://team.inria.fr/potioc/fr/) and [Hybrid](https://team.inria.fr/hybrid/) teams.
+Ph.D. in Computer Science, supervised by [Martin Hachet](https://people.bordeaux.inria.fr/hachet/) and [Anatole Lécuyer](https://people.rennes.inria.fr/Anatole.Lecuyer/). I was part of the [Potioc](https://team.inria.fr/potioc/fr/) and [Hybrid](https://team.inria.fr/hybrid/) teams.
 
 **Title**: Being a Virtual Avatar in a Real Environment: Design and Study of Avatar Embodiment in Augmented Reality
 
 **Research topics:** *HCI, avatars, AR, MR, Sense of Embodiment, Experimental Research*  
 
-**Abstract**: Once reserved for virtual environments, avatars are now increasingly present in Augmented Reality (AR). This technology allows interacting with virtual content directly integrated into our physical surroundings. Combined with body tracking, it makes it possible to experience being inside a virtual body of any desired appearance and to extend one’s action capabilities. Despite the numerous opportunities for applications that this new possibility provides, little research has explored how to implement and exploit it. The way users perceive such experiences within real environments is additionally not well understood yet. In this thesis, we explore the embodiment of avatars in AR through several axes. First, we introduce a taxonomy through a body avatarization continuum to better describe embodiment experiences. Next, using an optical see-through AR display, we study the user’s sense of embodiment towards virtual hands and how mixing the virtual with the real impacts this sense. We then look at the use cases for avatar embodiment in AR and investigate interaction techniques allowing to control avatars in the third person and to explore the real world. We propose an implementation of this concept and evaluate the approach of using such a system to improve our perception of real-world affordances through a user study. Finally, we explore strategies to enhance embodiment illusions by designing transitions to become one's avatar and methods to prepare the user for their "avatarization".
+**Abstract**: Once reserved for virtual environments, avatars are now increasingly present in Augmented Reality (AR). This technology allows interacting with virtual content directly integrated into our physical surroundings. Combined with body tracking, it makes it possible to experience being inside a virtual body of any desired appearance and to extend one’s action capabilities. Despite the numerous opportunities for applications that this new possibility provides, little research has explored how to implement and exploit it. The way users perceive such experiences within real environments is additionally not well understood yet. In this thesis, we explore the embodiment of avatars in AR through several axes. First, we introduce a taxonomy through a body avatarization continuum to better describe embodiment experiences. Next, using an optical see-through AR display, we study the user’s sense of embodiment towards virtual hands and how mixing the virtual with the real impacts this sense. We then look at the use cases for avatar embodiment in AR and investigate interaction techniques allowing to control avatars in the third person and to explore the real world. We propose an implementation of this concept and evaluate the approach of using such a system to improve our perception of real-world affordances through a user study. Finally, we explore strategies to enhance embodiment illusions by designing transitions to become one’s avatar and methods to prepare the user for their “avatarization”.
 
 ### Scientific publications
 
