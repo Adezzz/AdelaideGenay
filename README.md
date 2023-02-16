@@ -1,5 +1,5 @@
 # About
 
-This repository contains my Github.io personal webpage. 
+This repository contains the files of my Github.io personal webpage: https://adezzz.github.io/AdelaideGenay/
 
-Thanks to [daattali](https://github.com/daattali/beautiful-jekyll) for making this template available!
+Many thanks to [daattali](https://github.com/daattali/beautiful-jekyll) for making this template available.
