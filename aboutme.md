@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-subtitle: Looking for a postdoc position
+subtitle: Ph.D. in XR looking for a postdoc position
 ---
 
 ### Summary
