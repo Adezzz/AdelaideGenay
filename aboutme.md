@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-subtitle: Design, Research and Development Engineer with a Ph.D. in XR
+subtitle: Looking for a postdoc position
 ---
 
 ### Summary
@@ -52,13 +52,15 @@ B.S. in Engineering Science
 
 Sept. 2014 - Aug. 2016  
 **Preparatory Class for Grandes Ecoles at Lycée Janson de Sailly (Mathematics-Physics program)**  
-Training for enrolment in "grandes écoles". More information here: [CPGE](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles)
+Training for enrolment in "grandes écoles" (engineering). More information here: [CPGE](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles)
 
 ### Work experience
 
-Jan. 2023 - now
-**Freelance R&D developer**
+Jan. 2023 - Now
+**R&D developer**
+FREELANCE
 As a self-employed contractor, I work on R&D projects. My current contract with [Co-Idea](https://www.co-idea.eu/en/) is to develop software models to illustrate usage scenarios for the CARDS Augmented Reality educational system. This system allows students to collaborate in class with low-cost and easy-to-install technologies.
+*C#, Unity, web development*
 
 Feb. 2019 - end of Jul. 2019  
 **Thales (Mérignac, France)**  
@@ -97,12 +99,7 @@ Hands-on courses for groups of 20 students, during a total of 38 hours of in-cla
 
 Sept. 2019 - Jan. 2020  
 **University of Bordeaux (Talence, France)**  
-Computer science basics and Python programming for 1st-year Computer Science Bachelor students.  
-- Courses for groups of 40 students.
-- Exercise and exam design
-- Supervision and correction of exam papers
-- Supervision of tutorial sessions
-- Total of 32 hours of in-class time
+Computer science basics and Python programming for 1st-year Computer Science Bachelor students.  Courses for groups of 40 students. Participated in exercise and exam design, and in the supervision and correction of exam papers. Total of 32 hours of in-class time.
 
 ### Technical Skills  
 
@@ -136,6 +133,7 @@ Workshop for middle and high school girl students on careers in science as a wom
 
 Oct. 2021  
 **“Can avatars replace our bodies?”, The Conversation (Talence, France)**  
+WRITER
 Article on the sense of embodiment of virtual avatars. Written for the online scientific magazine The Conversation.  <a href="https://theconversation.com/les-avatars-peuvent-ils-remplacer-notre-corps-164965">Link</a>
 
 Jun. 2021  
@@ -164,4 +162,4 @@ Round-table discussion animated by a Antoine Philippeau on the subject of avatar
 
 **Traveling:** I lived 9 years in China (Shanghai) and 2 years in Brazil (São Paulo) as a child of expatriate parents.
 
-**Hobbies:** I do pottery as a side activity on a weekly basis. I’m also a bass guitar player. I enjoy painting with watercolor and doing DIY.
+**Hobbies:** I enjoy painting with watercolor, sewing, and doing DIY in general. I also enjoy board games and dancing (salsa, rock). 
