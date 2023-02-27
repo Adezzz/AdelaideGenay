@@ -17,9 +17,9 @@ author: Adélaïde Genay
 
 navbar-links:
   CV: "aboutme"
+  Thesis: "https://theses.hal.science/tel-04004116"
   Projects:
     - Hybrid avatars: "https://team.inria.fr/potioc/fr/research-topics/design-and-evaluation-of-hybrid-avatars/"
-  Potioc Team: "https://team.inria.fr/potioc/fr/team-members/"
 
 # --- Logo --- #
 
