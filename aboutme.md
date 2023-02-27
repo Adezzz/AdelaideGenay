@@ -23,12 +23,12 @@ Ph.D. in Computer Science, supervised by [Martin Hachet](https://people.bordeaux
 
 ### Scientific publications
 
-R. Otono, A. Genay, M. Perusquía-Hernández, N. Isoyama, H. Uchiyama, M. Hachet, A. Lécuyer, K. Kiyokawa, “**I'm Transforming! Effects of Visual Transitions to Change of Avatar on the Sense of Embodiment in AR**”, IEEE Conference on Virtual Reality and 3D User Interfaces (VR), Shanghai, China, Mar. 2023. In publication process. HAL: hal-03968274
+R. Otono, A. Genay, M. Perusquía-Hernández, N. Isoyama, H. Uchiyama, M. Hachet, A. Lécuyer, K. Kiyokawa, “**I'm Transforming! Effects of Visual Transitions to Change of Avatar on the Sense of Embodiment in AR**”, IEEE Conference on Virtual Reality and 3D User Interfaces (VR), Shanghai, China, Mar. 2023. In publication process. HAL: [hal-03968274](https://hal.inria.fr/hal-03968274)
 
 A. Genay, A. Lécuyer and M. Hachet, “**What Can I Do There? Controlling AR Self-Avatars to Better Perceive Affordances of the Real World**”, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Singapore, Singapore, Oct. 2022.  
 HAL: [hal-03820756](https://hal.archives-ouvertes.fr/hal-03820756/document)
 
-R. Otono, A. Genay, M. Perusquía-Hernández, N. Isoyama, H. Uchiyama, M. Hachet, A. Lécuyer, K. Kiyokawa, “**Studying "Avatar Transitions" in Augmented Reality: Influence on Sense of Embodiment and Physiological Activity**”, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Singapore, Singapore, Oct. 2022. DOI: 10.1109/ISMAR-Adjunct57072.2022.00106
+R. Otono, A. Genay, M. Perusquía-Hernández, N. Isoyama, H. Uchiyama, M. Hachet, A. Lécuyer, K. Kiyokawa, “**Studying "Avatar Transitions" in Augmented Reality: Influence on Sense of Embodiment and Physiological Activity**”, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Singapore, Singapore, Oct. 2022. DOI: [10.1109/ISMAR-Adjunct57072.2022.00106](https://doi.org/10.1109/ISMAR-Adjunct57072.2022.00106)
 
 A. Genay, A. Lécuyer and M. Hachet, “**Being an Avatar “for Real”: a Survey on Virtual Embodiment in Augmented Reality**” IEEE Transactions on Visualization and Computer Graphics (TVCG), Christchurch, New Zealand, Jul. 2021.  
 DOI: [10.1109/TVCG.2021.3099290](https://hal.univ-reunion.fr/IRISA/hal-03320680v1)
@@ -80,9 +80,14 @@ Design of a factory machine optimization protocol. Analysis and prediction of th
 
 ### Teaching
 
+Marc. 2023 - May. 2023  
+**ENSEIRB-MATMECA (Talence, France)**  
+Javascript functional programming for engineering students.  
+Hands-on project supervision for small groups of students, during a total of 25 hours of in-class time.
+
 Nov. 2021 - Jan. 2022  
 **ENSEIRB-MATMECA (Talence, France)**  
-Computer architecture and microprocessing for engineering students.  
+Computer architecture and microprocessing for engineering students.
 Hands-on courses for groups of 20 students, during a total of 20 hours of in-class time.
 
 Sept. 2019 - Jan. 2021  
