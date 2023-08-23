@@ -11,22 +11,22 @@ Computer Science Engineering with a major in Multimedia and Video Game developme
 
 ### Work experience
 
-Aug. 2023 - now
-**University of Melbourne**
-POSTDOCTORAL RESEARCH ASSISTANT
-Our current research looks into collaborative Mixed Reality systems supporting multiple remote users. We are looking at how to blend the physical spaces of each remote user to enable working on shared tangible surfaces (e.g. whiteboards, desks). This project is part of the HCI group. Casual research contract.
-*C#, Unity, Oculus Quest Pro 2*
+Aug. 2023 - now  
+**University of Melbourne**  
+POSTDOCTORAL RESEARCH ASSISTANT  
+Our current research looks into collaborative Mixed Reality systems supporting multiple remote users. We are looking at how to blend the physical spaces of each remote user to enable working on shared tangible surfaces (e.g. whiteboards, desks). This project is part of the HCI group. Casual research contract.  
+*C#, Unity, Oculus Quest Pro 2*  
 
-Aug. 2023 - now
-**Monash University**
-POSTDOCTORAL RESEARCH ASSISTANT
-We are exploring the potential of Virtual Reality to facilitate the understanding of ecosystem variability and dynamics, particularly in response to shifts in climate and land usage. My responsibilities encompass the design and integration of user interactions within these VR landscapes. The ultimate goal is to empower users to manipulate environmental variables in real-time, such as rain or human activity, enabling them to observe immediate consequences and thus enhance their comprehension of ecosystems. This project is part of the Immersive Analytics lab. Casual research contract.
+Aug. 2023 - now  
+**Monash University**  
+POSTDOCTORAL RESEARCH ASSISTANT  
+We are exploring the potential of Virtual Reality to facilitate the understanding of ecosystem variability and dynamics, particularly in response to shifts in climate and land usage. My responsibilities encompass the design and integration of user interactions within these VR landscapes. The ultimate goal is to empower users to manipulate environmental variables in real-time, such as rain or human activity, enabling them to observe immediate consequences and thus enhance their comprehension of ecosystems. This project is part of the Immersive Analytics lab. Casual research contract.  
 *C#, Unity, HP Reverb, Windows Mixed Reality*
 
-Jan. 2023 - end of May. 2023
-**R&D developer**
-FREELANCE
-As a self-employed contractor, I work on R&D projects. My current contract with [Co-Idea](https://www.co-idea.eu/en/) is to develop software models to illustrate usage scenarios for the CARDS Augmented Reality educational system. This system allows students to collaborate in class with low-cost and easy-to-install technologies.
+Jan. 2023 - end of May. 2023  
+**R&D developer**  
+FREELANCE  
+As a self-employed contractor, I work on R&D projects. My current contract with [Co-Idea](https://www.co-idea.eu/en/) is to develop software models to illustrate usage scenarios for the CARDS Augmented Reality educational system. This system allows students to collaborate in class with low-cost and easy-to-install technologies.  
 *C#, Unity, web development (NodeJS)*
 
 Feb. 2019 - end of Jul. 2019  
@@ -50,12 +50,9 @@ Design of a factory machine optimization protocol. Analysis and prediction of th
 ### Education
 Oct. 2019 - Dec. 2022  
 **Inria Bordeaux Sud-Ouest**  
-Ph.D. in Computer Science, supervised by [Martin Hachet](https://people.bordeaux.inria.fr/hachet/) and [Anatole Lécuyer](https://people.rennes.inria.fr/Anatole.Lecuyer/). I was part of the [Potioc](https://team.inria.fr/potioc/fr/) and [Hybrid](https://team.inria.fr/hybrid/) teams.
-
-**Title**: Being a Virtual Avatar in a Real Environment: Design and Study of Avatar Embodiment in Augmented Reality
-
+Ph.D. in Computer Science, supervised by [Martin Hachet](https://people.bordeaux.inria.fr/hachet/) and [Anatole Lécuyer](https://people.rennes.inria.fr/Anatole.Lecuyer/). I was part of the [Potioc](https://team.inria.fr/potioc/fr/) and [Hybrid](https://team.inria.fr/hybrid/) teams.  
+**Title**: Being a Virtual Avatar in a Real Environment: Design and Study of Avatar Embodiment in Augmented Reality  
 **Research topics:** *HCI, avatars, AR, MR, Sense of Embodiment, Experimental Research*  
-
 **Abstract**: Once reserved for virtual environments, avatars are now increasingly present in Augmented Reality (AR). This technology allows interacting with virtual content directly integrated into our physical surroundings. Combined with body tracking, it makes it possible to experience being inside a virtual body of any desired appearance and to extend one’s action capabilities. Despite the numerous opportunities for applications that this new possibility provides, little research has explored how to implement and exploit it. The way users perceive such experiences within real environments is additionally not well understood yet. In this thesis, we explore the embodiment of avatars in AR through several axes. First, we introduce a taxonomy through a body avatarization continuum to better describe embodiment experiences. Next, using an optical see-through AR display, we study the user’s sense of embodiment towards virtual hands and how mixing the virtual with the real impacts this sense. We then look at the use cases for avatar embodiment in AR and investigate interaction techniques allowing to control avatars in the third person and to explore the real world. We propose an implementation of this concept and evaluate the approach of using such a system to improve our perception of real-world affordances through a user study. Finally, we explore strategies to enhance embodiment illusions by designing transitions to become one’s avatar and methods to prepare the user for their “avatarization”.
 
 Sept. 2017 - Aug. 2019  
@@ -72,13 +69,13 @@ Training for enrolment in "grandes écoles" (engineering). More information here
 
 ### Scientific publications
 
-R. Otono, A. Genay, M. Perusquía-Hernández, N. Isoyama, H. Uchiyama, M. Hachet, A. Lécuyer, K. Kiyokawa, “**I'm Transforming! Effects of Visual Transitions to Change of Avatar on the Sense of Embodiment in AR**”, IEEE Conference on Virtual Reality and 3D User Interfaces (VR), Shanghai, China, Mar. 2023, pp. 83-93. 
+R. Otono, A. Genay, M. Perusquía-Hernández, N. Isoyama, H. Uchiyama, M. Hachet, A. Lécuyer, K. Kiyokawa, “**I'm Transforming! Effects of Visual Transitions to Change of Avatar on the Sense of Embodiment in AR**”, IEEE Conference on Virtual Reality and 3D User Interfaces (VR), Shanghai, China, Mar. 2023, pp. 83-93.  
 DOI: [10.1109/VR55154.2023.00024](https://ieeexplore.ieee.org/abstract/document/10108469?casa_token=dElkdbLfEkcAAAAA:BtG4kng8DzUXJGis34ugGrnE9eLmQhWuPsFBakOICP_VrlQn_2nn02BQtTyHdhVF4zV-KK-E4TKi)
 
 A. Genay, A. Lécuyer and M. Hachet, “**What Can I Do There? Controlling AR Self-Avatars to Better Perceive Affordances of the Real World**”, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Singapore, Singapore, Oct. 2022, pp. 450-459.  
 DOI: [10.1109/ISMAR55827.2022.00061](https://ieeexplore.ieee.org/abstract/document/9995452?casa_token=zlkf5QWIh3EAAAAA:iZ4njmVNuv0Rk_bZSYlXk4W-ouiJLBBsXYQe-WV38AHQtOP-BGZHDHlwmtXVcBuijZb32fqmqKIa)
 
-R. Otono, A. Genay, M. Perusquía-Hernández, N. Isoyama, H. Uchiyama, M. Hachet, A. Lécuyer, K. Kiyokawa, “**Studying "Avatar Transitions" in Augmented Reality: Influence on Sense of Embodiment and Physiological Activity**”, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Singapore, Singapore, Oct. 2022. 
+R. Otono, A. Genay, M. Perusquía-Hernández, N. Isoyama, H. Uchiyama, M. Hachet, A. Lécuyer, K. Kiyokawa, “**Studying "Avatar Transitions" in Augmented Reality: Influence on Sense of Embodiment and Physiological Activity**”, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Singapore, Singapore, Oct. 2022.  
 DOI: [10.1109/ISMAR-Adjunct57072.2022.00106](https://doi.org/10.1109/ISMAR-Adjunct57072.2022.00106)
 
 A. Genay, A. Lécuyer and M. Hachet, “**Being an Avatar “for Real”: a Survey on Virtual Embodiment in Augmented Reality**” IEEE Transactions on Visualization and Computer Graphics (TVCG), Christchurch, New Zealand, Jul. 2021.  
