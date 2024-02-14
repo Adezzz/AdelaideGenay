@@ -6,20 +6,25 @@ subtitle: Ph.D. in XR
 
 ### Summary
 
-Postdoctoral researcher with a passion for sharing her knowledge. Specialized in Avatars, Augmented Reality, HCI, and Cognitive Science. Ph.D. in human-computer interactions. MSc in
-Computer Science Engineering with a major in Multimedia and Video Game development. BSc in Engineering Science. Now working as an assistant researcher in Melbourne, Australia.
+Lecturer with a passion for sharing her knowledge. Specialized in Mixed Reality, HCI, and Immersive Visualisations. PhD in HCI. MSc in Computer Science Engineering with a major in Multimedia and Video Game development. BSc in Engineering Science. Now working in Melbourne, Australia.
 
 ### Work experience
 
-Aug. 2023 - now  
+Feb. 2024 - now  
 **University of Melbourne**  
-POSTDOCTORAL RESEARCH ASSISTANT  
+LECTURER IN COMPUTER GRAPHICS AND VISUALISATION  
+I teach novel interaction design and graphics. Research & Teaching continuing position.  
+*C#, Unity, Design, XR*  
+
+Aug. 2023 - end of Jan. 2024  
+**University of Melbourne**  
+POSTDOCTORAL RESEARCHER
 Our current research looks into collaborative Mixed Reality systems supporting multiple remote users. We are looking at how to blend the physical spaces of each remote user to enable working on shared tangible surfaces (e.g. whiteboards, desks). This project is part of the HCI group. Casual research contract.  
 *C#, Unity, Oculus Quest Pro 2*  
 
-Aug. 2023 - now  
+Aug. 2023 - end of Jan. 2024    
 **Monash University**  
-POSTDOCTORAL RESEARCH ASSISTANT  
+POSTDOCTORAL RESEARCHER
 We are exploring the potential of Virtual Reality to facilitate the understanding of ecosystem variability and dynamics, particularly in response to shifts in climate and land usage. My responsibilities encompass the design and integration of user interactions within these VR landscapes. The ultimate goal is to empower users to manipulate environmental variables in real-time, such as rain or human activity, enabling them to observe immediate consequences and thus enhance their comprehension of ecosystems. This project is part of the Immersive Analytics lab. Casual research contract.  
 *C#, Unity, HP Reverb, Windows Mixed Reality*
 
