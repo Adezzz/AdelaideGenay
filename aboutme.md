@@ -17,13 +17,13 @@ I teach novel interaction design and graphics. Research & Teaching continuing po
 *C#, Unity, Design, XR*  
 
 Aug. 2023 - end of Jan. 2024  
-**University of Melbourne**
+**University of Melbourne**  
 POSTDOCTORAL RESEARCHER  
 Our current research looks into collaborative Mixed Reality systems supporting multiple remote users. We are looking at how to blend the physical spaces of each remote user to enable working on shared tangible surfaces (e.g. whiteboards, desks). This project is part of the HCI group. Casual research contract.  
 *C#, Unity, Oculus Quest Pro 2*  
 
 Aug. 2023 - end of Jan. 2024    
-**Monash University**
+**Monash University**  
 POSTDOCTORAL RESEARCHER  
 We are exploring the potential of Virtual Reality to facilitate the understanding of ecosystem variability and dynamics, particularly in response to shifts in climate and land usage. My responsibilities encompass the design and integration of user interactions within these VR landscapes. The ultimate goal is to empower users to manipulate environmental variables in real-time, such as rain or human activity, enabling them to observe immediate consequences and thus enhance their comprehension of ecosystems. This project is part of the Immersive Analytics lab. Casual research contract.  
 *C#, Unity, HP Reverb, Windows Mixed Reality*
@@ -97,27 +97,28 @@ HAL: [hal-02933477](https://hal.inria.fr/hal-02933477/)
 
 Jul. 2024 - now  
 **University of Melbourne (Parkville, VIC, Australia)**  
-Computer Graphics and Interactions.
-Elective subject. Lectures for around 250 students in the Bs. of Design or Ms. of IT.
+Computer Graphics and Interactions.  
+Master of IT or Bachelor of Design elective subject. Lectures for around 250 students.
 
 Feb. 2024 - now  
 **University of Melbourne (Parkville, VIC, Australia)**  
-Designing Novel Interactions.
-Core subject. Lectures for around 100 students in the Ms. of IT.
+Designing Novel Interactions.  
+Master of IT core subject. Lectures for around 100 students.
 
 Nov. 2021 - Jan. 2022  
 **ENSEIRB-MATMECA (Talence, France)**  
-Computer architecture and microprocessing for engineering students.
-Hands-on courses for groups of 20 students, during a total of 20 hours of in-class time.
+Computer Architecture and Microprocessing.  
+Engineering cycle, year 1 students. Hands-on courses for groups of 20 students, during a total of 20 hours of in-class time.
 
 Sept. 2019 - Jan. 2021  
 **University of Bordeaux (Talence, France)**  
-C programming for 2nd-year Science Bachelor students.  
-Hands-on courses for groups of 20 students, during a total of 38 hours of in-class time.
+C Programming.  
+Bachelor of Science, year 2 students. Hands-on courses for groups of 20 students, during a total of 38 hours of in-class time.
 
 Sept. 2019 - Jan. 2020  
 **University of Bordeaux (Talence, France)**  
-Computer science basics and Python programming for 1st-year Computer Science Bachelor students.  Courses for groups of 40 students. Participated in exercise and exam design, and in the supervision and correction of exam papers. Total of 32 hours of in-class time.
+Introduction to Programming.  
+Bachelor year 1 students (cross-major). Courses for groups of 40 students. Participated in exercise and exam design, and in the supervision and correction of exam papers. Total of 32 hours of in-class time.
 
 ### Technical Skills  
 
