@@ -19,7 +19,9 @@ navbar-links:
   CV: "aboutme"
   Thesis: "https://theses.hal.science/tel-04004116"
   Projects:
-    - Hybrid avatars: "https://team.inria.fr/potioc/fr/research-topics/design-and-evaluation-of-hybrid-avatars/"
+    - Hybrid Avatars: "https://team.inria.fr/potioc/fr/research-topics/design-and-evaluation-of-hybrid-avatars/"
+    - The Blended Realities Collective: "https://blendedrealities.jensemil.dk/"
+    - Virtual Landscapes: "https://www.csiro.au/en/news/All/News/2021/November/Virtual-landscapes-to-study-endangered-Australian-ecosystems"
 
 # --- Logo --- #
 
