@@ -74,57 +74,74 @@ Training for enrolment in "grandes écoles" (engineering). More information here
 
 ### Scientific publications
 
-R. Otono, A. Genay, M. Perusquía-Hernández, N. Isoyama, H. Uchiyama, M. Hachet, A. Lécuyer, K. Kiyokawa, “**I'm Transforming! Effects of Visual Transitions to Change of Avatar on the Sense of Embodiment in AR**”, IEEE Conference on Virtual Reality and 3D User Interfaces (VR), Shanghai, China, Mar. 2023, pp. 83-93.  
+[comment]: <> (E Wong, A Genay, JE Grønbæk, E Velloso, “**Spatial Heterogeneity in Distributed Mixed Reality Collaboration**”, Proceedings of the CHI Conference on Human Factors in Computing Systems, Yokohama, Japan, Apr. 2025. Accepted under minor revisions.)
+
+A Genay, B Syiem, E Wong, T Feuchtner, J Knibbe, JE Grønbæk, E Velloso, “**Scaling Distributed Collaboration in Mixed Reality**”, Extended Abstracts of the CHI Conference on Human Factors in Computing Systems, Yokohama, Japan, Apr. 2025 (workshop).  
+DOI: [10.1145/3706599.3706722](https://blendedrealities.jensemil.dk/wp-content/uploads/2025/01/CHI_Workshop_2025___Scaling_Distributed_Collaboration_in_Mixed_Reality-1.pdf)
+
+A Genay, E Kimura, M Hachet, A Lécuyer, Y Hirao, M Perusquia-Hernandez, H Uchiyama, K Kiyokawa, “**Preparing Users to Embody their Avatars in VR: Insights on the Effects of Priming, Mental Imagery, and Acting on Embodiment Experiences**”, 36th Australian Conference on Human-Computer Interaction (OzCHI), Brisbane, Australia, Dec. 2024.  
+HAL: [hal-04822108](https://inria.hal.science/INRIA-BORDEAUX/hal-04822108v1)
+
+E Kimura, A Genay, K Nakano, Y Hirao, M Perusquía-Hernández, T Narumi, H Uchiyama, K Kiyokawa, “**Reducing the Proteus Effect in Virtual Reality: A Mental and Acting Approach**”, International Conference on Artificial Reality and Telexistence, Eurographics Symposium on Virtual Environments (ICAT-EGVE), Tsukuba, Japan, Nov. 2024 (poster).  
+DOI: [10.2312/egve.20241393](https://diglib.eg.org/items/e614f858-5612-4d2a-b6bb-58a4341cf1a2)
+
+R Otono, A Genay, M Perusquía-Hernández, N Isoyama, H Uchiyama, M Hachet, A Lécuyer, K Kiyokawa, “**I'm Transforming! Effects of Visual Transitions to Change of Avatar on the Sense of Embodiment in AR**”, IEEE Conference on Virtual Reality and 3D User Interfaces (VR), Shanghai, China, Mar. 2023, pp. 83-93.  
 DOI: [10.1109/VR55154.2023.00024](https://ieeexplore.ieee.org/abstract/document/10108469?casa_token=dElkdbLfEkcAAAAA:BtG4kng8DzUXJGis34ugGrnE9eLmQhWuPsFBakOICP_VrlQn_2nn02BQtTyHdhVF4zV-KK-E4TKi)
 
-A. Genay, A. Lécuyer and M. Hachet, “**What Can I Do There? Controlling AR Self-Avatars to Better Perceive Affordances of the Real World**”, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Singapore, Singapore, Oct. 2022, pp. 450-459.  
+A Genay, A Lécuyer and M Hachet, “**What Can I Do There? Controlling AR Self-Avatars to Better Perceive Affordances of the Real World**”, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Singapore, Singapore, Oct. 2022, pp. 450-459.  
 DOI: [10.1109/ISMAR55827.2022.00061](https://ieeexplore.ieee.org/abstract/document/9995452?casa_token=zlkf5QWIh3EAAAAA:iZ4njmVNuv0Rk_bZSYlXk4W-ouiJLBBsXYQe-WV38AHQtOP-BGZHDHlwmtXVcBuijZb32fqmqKIa)
 
-R. Otono, A. Genay, M. Perusquía-Hernández, N. Isoyama, H. Uchiyama, M. Hachet, A. Lécuyer, K. Kiyokawa, “**Studying "Avatar Transitions" in Augmented Reality: Influence on Sense of Embodiment and Physiological Activity**”, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Singapore, Singapore, Oct. 2022.  
+R Otono, A Genay, M Perusquía-Hernández, N Isoyama, H Uchiyama, M Hachet, A Lécuyer, K Kiyokawa, “**Studying "Avatar Transitions" in Augmented Reality: Influence on Sense of Embodiment and Physiological Activity**”, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Singapore, Singapore, Oct. 2022.  
 DOI: [10.1109/ISMAR-Adjunct57072.2022.00106](https://doi.org/10.1109/ISMAR-Adjunct57072.2022.00106)
 
-A. Genay, A. Lécuyer and M. Hachet, “**Being an Avatar “for Real”: a Survey on Virtual Embodiment in Augmented Reality**” IEEE Transactions on Visualization and Computer Graphics (TVCG), Christchurch, New Zealand, Jul. 2021.  
+A Genay, A Lécuyer and M Hachet, “**Being an Avatar “for Real”: a Survey on Virtual Embodiment in Augmented Reality**” IEEE Transactions on Visualization and Computer Graphics (TVCG), Christchurch, New Zealand, Jul. 2021.  
 DOI: [10.1109/TVCG.2021.3099290](https://hal.univ-reunion.fr/IRISA/hal-03320680v1)
 
-A. Genay, A. Lécuyer and M. Hachet, “**Virtual, Real or Mixed: How Surrounding Objects Influence the Sense of Embodiment in Optical See-Through Experiences?**”
+A Genay, A Lécuyer and M Hachet, “**Virtual, Real or Mixed: How Surrounding Objects Influence the Sense of Embodiment in Optical See-Through Experiences?**”
 Frontiers in Virtual Reality, 2:679902, Jun. 2021.  
 DOI: [10.3389/frvir.2021.6799020](https://www.frontiersin.org/articles/10.3389/frvir.2021.679902/full)
 
-A. Genay, A. Lécuyer and M. Hachet, “**Incarner un Avatar en Réalité Augmentée : Revue de la Littérature**”, WACAI 2020 - Workshop sur les Affects, Compagnons Artificiels et Interactions, Saint Pierre d’Oléron, France, Oct. 2021.  
+A Genay, A Lécuyer and M Hachet, “**Incarner un Avatar en Réalité Augmentée : Revue de la Littérature**”, WACAI 2020 - Workshop sur les Affects, Compagnons Artificiels et Interactions, Saint Pierre d’Oléron, France, Oct. 2021.  
 HAL: [hal-02933477](https://hal.inria.fr/hal-02933477/)
 
 ### Teaching
 
 Jul. 2024 - now  
 **University of Melbourne (Parkville, VIC, Australia)**  
-Computer Graphics and Interactions.  
+Subject Coordinator and Lecturer for "Computer Graphics and Interactions" ([COMP30019](https://handbook.unimelb.edu.au/2025/subjects/comp30019))
 Master of IT or Bachelor of Design elective subject. Lectures for around 250 students.
 
 Feb. 2024 - now  
 **University of Melbourne (Parkville, VIC, Australia)**  
-Designing Novel Interactions.  
+Subject Coordinator and Lecturer for "Designing Novel Interactions" ([INFO30009](https://handbook.unimelb.edu.au/2025/subjects/info90003))
 Master of IT core subject. Lectures for around 100 students.
 
 Nov. 2021 - Jan. 2022  
 **ENSEIRB-MATMECA (Talence, France)**  
-Computer Architecture and Microprocessing.  
+Tutor for "Computer Architecture and Microprocessing".  
 Engineering cycle, year 1 students. Hands-on courses for groups of 20 students, during a total of 20 hours of in-class time.
 
 Sept. 2019 - Jan. 2021  
 **University of Bordeaux (Talence, France)**  
-C Programming.  
+Tutor for "Advancecd C Programming".  
 Bachelor of Science, year 2 students. Hands-on courses for groups of 20 students, during a total of 38 hours of in-class time.
 
 Sept. 2019 - Jan. 2020  
 **University of Bordeaux (Talence, France)**  
-Introduction to Programming.  
+Tutor for "Introduction to Programming".  
 Bachelor year 1 students (cross-major). Courses for groups of 40 students. Participated in exercise and exam design, and in the supervision and correction of exam papers. Total of 32 hours of in-class time.
 
-### Technical Skills  
+### Current Supervisions
 
-**Programming:** Unity, C#, C, Python  
-**Data Analysis:** R, SPSS  
-**Languages:** English (fluent), French (native), Chinese (beginner), Portuguese (beginner)
+**Andrew Mahisa Halim**, PhD candidate: 40% of supervision load. Thesis title: “Multiscale Physics Simulation for Scientific Visualizations”. Expected submission date: 05/08/2027.	
+
+**Benjamin Loveridge**, PhD candidate: 30% of supervision load. Thesis title: “The Role of Expressive Visual Cues for Interaction in Immersive Virtual Reality Musical Experiences”. Expected submission date: 20/02/2029 (part-time student).
+
+**YuHin Li**, Master thesis: 100% of supervision load. Thesis title: “Design of Visual Metaphors to Represent the Passage of Time in Virtual Reality”. Expected submission date: 26/06/2025. 
+
+### Past Supervisions
+
+**XuanMing Liang**, Master thesis: 100% of supervision load. Thesis title: “Exploring how to support Food Addiction research through Supermarket Simulation in VR”. Submission date: 28/10/2024.
 
 ### Certifications
 
@@ -139,6 +156,11 @@ Score: 975 (C1)
 ETS Global-France® Talence, France
 
 ### Scientific Outreach
+
+Dec. 2024  
+**Contribution to the artwork “Guài”, Science Gallery (Melbourne, Australia)**  
+RESEARCHER  
+This artwork is exhibited at the [SCI-FI: Mythologies Transformed](https://melbourne.sciencegallery.com/sci-fi-chapters-new-nature/guai) exhibition of the Melbourne Science Gallery. 
 
 Apr. 2022  
 **Participation to “Moi Mathématicienne, Moi Informaticienne” (Talence, France)**  
@@ -174,4 +196,4 @@ Round-table discussion animated by a Antoine Philippeau on the subject of avatar
 
 **Traveling:** I lived 9 years in China (Shanghai) and 2 years in Brazil (São Paulo) as a child of expatriate parents.
 
-**Hobbies:** I enjoy painting with watercolor, sewing, and doing DIY in general. I also enjoy board games and dancing (salsa, rock). 
+**Hobbies:** I enjoy sailing and diving.
